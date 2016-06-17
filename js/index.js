@@ -8,7 +8,7 @@ var list=[
         id:1,
         keys:'A',
         people:[
-          {id:10001,scr:"../jpg/1.jpg",name:'安一',beizhu:'朋友',weixinhao:'ay0123451'},
+          {id:10001,scr:"../jpg/2.jpg",name:'安二',beizhu:'亲人',weixinhao:'ae0123452'},
           {id:10002,scr:"../jpg/2.jpg",name:'安二',beizhu:'亲人',weixinhao:'ae0123452'},
           {id:10003,scr:"./jpg/3.jpg",name:'安三',beizhu:'同事',weixinhao:'as0123453'}
         ]
