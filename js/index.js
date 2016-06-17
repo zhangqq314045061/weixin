@@ -8,7 +8,7 @@ var list=[
         id:1,
         keys:'A',
         people:[
-          {id:10001,scr:"../jpg/1.jpg",name:'安一',beizhu:'朋友',weixinhao:'ay0123451'},
+          {id:10001,scr:"./jpg/1.jpg",name:'安一',beizhu:'朋友',weixinhao:'ay0123451'},
           {id:10002,scr:"./jpg/2.jpg",name:'安二',beizhu:'亲人',weixinhao:'ae0123452'},
           {id:10003,scr:"./jpg/3.jpg",name:'安三',beizhu:'同事',weixinhao:'as0123453'}
         ]
@@ -52,7 +52,7 @@ return y;
 weixin.factory('$x',[function(){
 var laast=[
       {
-        image:"../jpg/1.jpg",
+        image:"./jpg/1.jpg",
         name:"老鼠",
         shuo:"在吗",
         liaotian:[
@@ -63,7 +63,7 @@ var laast=[
         ]
       },
       {
-        image:"../jpg/2.jpg",
+        image:"./jpg/2.jpg",
         name:"老牛",
         shuo:"在吗",
         liaotian:[
@@ -74,7 +74,7 @@ var laast=[
         ]
       },
       {
-        image:"../jpg/3.jpg",
+        image:"./jpg/3.jpg",
         name:"老虎",
         shuo:"在吗",
         liaotian:[
@@ -85,7 +85,7 @@ var laast=[
         ]
       },
       {
-        image:"../jpg/4.jpg",
+        image:"./jpg/4.jpg",
         name:"老土",
         shuo:"在吗",
         liaotian:[
@@ -96,7 +96,7 @@ var laast=[
         ]
       },
       {
-        image:"../jpg/5.jpg",
+        image:"./jpg/5.jpg",
         name:"老哦",
         shuo:"在吗",
         liaotian:[
@@ -107,7 +107,7 @@ var laast=[
         ]
       },
       {
-        image:"../jpg/6.jpg",
+        image:"./jpg/6.jpg",
         name:"老魔",
         shuo:"在吗",
         liaotian:[
